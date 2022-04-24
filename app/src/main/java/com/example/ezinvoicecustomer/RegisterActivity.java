@@ -71,7 +71,7 @@ public class RegisterActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Enter your first name!", Toast.LENGTH_SHORT).show();
                     return;
                 }
-
+//
                 if (TextUtils.isEmpty(lastname)) {
                     Toast.makeText(getApplicationContext(), "Enter your last name!", Toast.LENGTH_SHORT).show();
                     return;
