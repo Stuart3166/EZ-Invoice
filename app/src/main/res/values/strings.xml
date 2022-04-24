@@ -1,0 +1,52 @@
+<resources>
+    <string name="app">EZ Invoice</string>
+    <string name="app_name">EZ Invoice Customer</string>
+    <string name="title_account_details">Account Details</string>
+    <string name="title_my_invoices">My Invoices</string>
+    <string name="title_scan_invoice">Scan Invoice</string>
+    <string name="log_out">Log Out</string>
+    <string name="account_details">Account Details</string>
+    <string name="ez_invoice_customer">EZ Invoice Customer</string>
+    <!--    <string name="facebook_application_id" translatable="false">1043943066336850</string>-->
+    <!--    <string name="facebook_login_protocol_scheme" translatable="false">fb1043943066336850</string>-->
+
+    <string name="email">Email</string>
+    <string name="enter_email">Enter account email address</string>
+    <string name="minimum_password">Password too short</string>
+    <string name="login_failed">Email &amp; Password do not match</string>
+
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="delete_user">Delete Account</string>
+    <string name="new_pass">New Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_register_new_user">New User? Register</string>
+    <string name="btn_link_to_login">Already registered? Login instead</string>
+    <string name="btn_forgot_password">Forgot password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="confirm_dialog_message">message</string>
+    <string name="confirm_dialog_title">title</string>
+    <string name="account_type">Account Type: Customer</string>
+    <string name="get_email">Email:</string>
+    <string name="get_name">Name:</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="update_email">update email</string>
+    <string name="current_password">Current Password</string>
+    <string name="update_password">Update Password</string>
+    <string name="new_email">New Email</string>
+    <string name="current">Current:</string>
+    <string name="sign_out">Sign out</string>
+</resources>

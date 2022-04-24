@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_scan_invoice"
+        android:icon="@drawable/outline_qr_code_scanner_24"
+        android:title="@string/title_scan_invoice" />
+
+    <item
+        android:id="@+id/navigation_my_invoices"
+        android:icon="@drawable/outline_view_list_24"
+        android:title="@string/title_my_invoices" />
+
+    <item
+        android:id="@+id/navigation_account_details"
+        android:icon="@drawable/outline_account_circle_24"
+        android:title="@string/title_account_details" />
+
+</menu>

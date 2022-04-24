@@ -1,0 +1,4 @@
+com/example/ezinvoicecustomer/ExampleInstrumentedTest.java
+ com.example.ezinvoicecustomer.ExampleInstrumentedTest
+com/example/ezinvoicecustomer/test/BuildConfig.java
+ com.example.ezinvoicecustomer.test.BuildConfig

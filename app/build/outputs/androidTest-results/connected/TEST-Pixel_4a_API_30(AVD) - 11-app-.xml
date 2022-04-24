@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.ezinvoicecustomer.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.752" timestamp="2022-02-12T01:23:53" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_4a_API_30(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="useAppContext" classname="com.example.ezinvoicecustomer.ExampleInstrumentedTest" time="0.018" />
+</testsuite>

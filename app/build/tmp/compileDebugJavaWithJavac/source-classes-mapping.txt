@@ -1,0 +1,33 @@
+com/example/ezinvoicecustomer/CustomAdapter.java
+ com.example.ezinvoicecustomer.CustomAdapter
+ com.example.ezinvoicecustomer.CustomAdapter$1
+ com.example.ezinvoicecustomer.CustomAdapter$MyViewHolder
+com/example/ezinvoicecustomer/ui/scan_invoices/ScanInvoicesFragment.java
+ com.example.ezinvoicecustomer.ui.scan_invoices.ScanInvoicesFragment
+ com.example.ezinvoicecustomer.ui.scan_invoices.ScanInvoicesFragment$1
+com/example/ezinvoicecustomer/databinding/FragmentMyInvoicesBinding.java
+ com.example.ezinvoicecustomer.databinding.FragmentMyInvoicesBinding
+com/example/ezinvoicecustomer/ui/my_invoices/MyInvoicesFragment.java
+ com.example.ezinvoicecustomer.ui.my_invoices.MyInvoicesFragment
+ com.example.ezinvoicecustomer.ui.my_invoices.MyInvoicesFragment$1
+com/example/ezinvoicecustomer/BuildConfig.java
+ com.example.ezinvoicecustomer.BuildConfig
+com/example/ezinvoicecustomer/ui/home/HomeFragment.java
+ com.example.ezinvoicecustomer.ui.home.HomeFragment
+ com.example.ezinvoicecustomer.ui.home.HomeFragment$1
+com/example/ezinvoicecustomer/ui/home/HomeViewModel.java
+ com.example.ezinvoicecustomer.ui.home.HomeViewModel
+com/example/ezinvoicecustomer/databinding/ActivityMainBinding.java
+ com.example.ezinvoicecustomer.databinding.ActivityMainBinding
+com/example/ezinvoicecustomer/databinding/FragmentScanInvoiceBinding.java
+ com.example.ezinvoicecustomer.databinding.FragmentScanInvoiceBinding
+com/example/ezinvoicecustomer/ui/scan_invoices/ScanInvoicesViewModel.java
+ com.example.ezinvoicecustomer.ui.scan_invoices.ScanInvoicesViewModel
+com/example/ezinvoicecustomer/databinding/FragmentAccountDetailsBinding.java
+ com.example.ezinvoicecustomer.databinding.FragmentAccountDetailsBinding
+com/example/ezinvoicecustomer/databinding/RowlayoutBinding.java
+ com.example.ezinvoicecustomer.databinding.RowlayoutBinding
+com/example/ezinvoicecustomer/ui/my_invoices/MyInvoicesViewModel.java
+ com.example.ezinvoicecustomer.ui.my_invoices.MyInvoicesViewModel
+com/example/ezinvoicecustomer/MainActivity.java
+ com.example.ezinvoicecustomer.MainActivity

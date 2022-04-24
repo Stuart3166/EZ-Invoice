@@ -1,0 +1,2 @@
+02-12 01:23:51.557 23879 23915 I TestRunner: started: useAppContext(com.example.ezinvoicecustomer.ExampleInstrumentedTest)
+02-12 01:23:51.560 23879 23915 I TestRunner: finished: useAppContext(com.example.ezinvoicecustomer.ExampleInstrumentedTest)
